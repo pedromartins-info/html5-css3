@@ -1,0 +1,19 @@
+body{
+    background: rgb(74, 167, 94);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+header{
+    margin-top: 100px;
+}
+
+h1 {
+    color: yellow;
+    font-family: fantasy;
+}
+p{
+    font-size: 20px;
+}
+img{
+    margin-bottom: 20px;
+}
